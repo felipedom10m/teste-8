@@ -2,10 +2,11 @@
   "email": "domfelipe10m@gmail.com",
   "produto": "teste-8",
   "upsells_comprados": [
-    1
+    1,
+    "Pudim"
   ],
-  "data": "2025-08-21T11:33:10.339Z",
-  "transacao_id": "checkout_20272",
+  "data": "2025-08-21T11:40:36.206Z",
+  "transacao_id": "test-card-1755776436206",
   "acesso_liberado": true,
   "nome": "Felipe de Sousa",
   "cpf": "19100000000",
