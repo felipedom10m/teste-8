@@ -3,10 +3,11 @@
   "produto": "teste-8",
   "upsells_comprados": [
     1,
-    "Pudim"
+    "Pudim",
+    "Bolo-Chocolate"
   ],
-  "data": "2025-08-21T11:40:36.206Z",
-  "transacao_id": "test-card-1755776436206",
+  "data": "2025-08-21T12:25:28.541Z",
+  "transacao_id": "test-card-1755779128541",
   "acesso_liberado": true,
   "nome": "Felipe de Sousa",
   "cpf": "19100000000",
